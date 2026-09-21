@@ -1,0 +1,11 @@
+name: "wnc"
+description: 
+''' 
+test desc
+'''
+author: "__rag_."
+minGameVersion: 156.2
+version: "0.1"
+displayName: "War Never Changes"
+subtitle: "test"
+repo: "thetrulystupid/War-Never-Changes"
